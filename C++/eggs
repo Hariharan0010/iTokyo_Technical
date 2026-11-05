@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int Eggs,eggs_in_tray,total_tray,total_eggs_left;
+    cout<<"Enter the number of eggs: ";
+    cin>>Eggs;
+    total_tray=Eggs/eggs_in_tray;
+    total_eggs_left=Eggs%eggs_in_tray;
+    cout<<"Total number of trays: "<<total_tray<<endl;
+    cout<<"Total number of eggs left: "<<total_eggs_left<<endl;
+}
