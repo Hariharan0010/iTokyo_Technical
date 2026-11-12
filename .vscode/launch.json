@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/LENOVO/Downloads/iTokyo_Technical/C++",
-      "program": "c:/Users/LENOVO/Downloads/iTokyo_Technical/C++/build/Debug/outDebug",
+      "cwd": "c:/Hariharan/NSK/iTokyo_Technical/C++/12-11-2026/We Do",
+      "program": "c:/Hariharan/NSK/iTokyo_Technical/C++/12-11-2026/We Do/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
