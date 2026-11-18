@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int array[2][3];
+    for(int i=0;i<size(array);i++){
+        for(int j=0;j<size(array[0]);j++){
+            int a;cout<<"Enter the Element: ";cin>>a;
+            array[i][j]=a;
+        }
+    }
+    for(int i=0;i<size(array);i++){
+        cout<<"Row "<<i+1<<": ";
+        for(int j=0;j<size(array[0]);j++){
+            cout<<array[i][j]<<" ";
+        }
+        cout<<endl;
+    }
+}
